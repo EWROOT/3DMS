@@ -1,2 +1,10 @@
 # 3DMS
-3D Modelling and Simulation
+
+- Project Description
+  - Project Plan
+
+- Project Directory Structure
+- Program Flow
+- Environment Setup
+- TODO:
+  - Create Project Plan
